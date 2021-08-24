@@ -1,5 +1,5 @@
 # NHRI-smart-mosquito-trap-system
-A smart mosquito trap system which can capture living mosquito and seperate Aedes and Culex by Neural Networks.
+A smart mosquito trap system that utilizes computer vision technology and deep learning networks to identify features of live adult Aedes aegypti and Cx. quinquefasciatus and identify them in real time.
 
 The whole system contains two concept,
 
